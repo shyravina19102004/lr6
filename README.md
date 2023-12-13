@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AntonMurzinov/Laba11.svg?branch=main)](https://travis-ci.org/AntonMurzinov/Laba11)
+[![Build Status](https://travis-ci.org/OksanaShyravina/Lr6.svg?branch=main)](https://travis-ci.org/OksanaShyravina/Lr6)
 
 
-# Laba11
+# Lr6
