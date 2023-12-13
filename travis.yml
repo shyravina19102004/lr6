@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../Laba11
+  - cmake ../Lr6
   - make -j
   - ./PolishTest/PolishTest
 notifications:
