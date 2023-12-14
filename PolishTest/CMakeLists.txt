@@ -1,3 +1,4 @@
+set(target, LAB4_TEST)
 file(GLOB hdrs "*.h*")
 file(GLOB srcs "*.cpp")
 
